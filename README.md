@@ -2,11 +2,8 @@
 Link to the dataset:
 https://data.mendeley.com/datasets/5y9wdsg2zt/2 
 
-![Screenshot 2024-01-24 123621](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/ff4262a9-9173-44b7-9916-6647b469cd0c)
-
-![Screenshot 2024-01-24 123617](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/c8f34d20-b219-44d2-a14e-cdec08c34436)
-
-![Screenshot 2024-01-24 123609](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/cfe03535-3c31-45ee-9541-57287f2cfd0c)
-
-
-![Screenshot 2024-01-24 123634](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/01c9bb4e-2d90-4180-8959-76035f8a0d05)
+![Screenshot 2024-01-24 135434](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/837e44ce-d527-4f12-add5-49a456d1f668)
+![Screenshot 2024-01-24 135447](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/bdc22557-8506-40a9-bb56-da92f798abf2)
+![Screenshot 2024-01-24 135658](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/63378716-b7bd-4079-971c-978570336a9b)
+![Screenshot 2024-01-24 135455](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/e28d01e3-8f1f-4eff-8bec-ba42b680d732)
+![Screenshot 2024-01-24 135308](https://github.com/JacobLaddeRFID/Cracks-or-No-Cracks-/assets/154939943/63f7736e-5461-4b99-b3b5-ed078abfaeab)
